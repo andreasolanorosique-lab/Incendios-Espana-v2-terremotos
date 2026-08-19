@@ -6,10 +6,36 @@
       <IconStyle>
         <scale>1.2</scale>
         <Icon>
-          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          <href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
         </Icon>
       </IconStyle>
     </Style>
+    <Style id="terremoto">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>M 3.0 - E CHURRIANA DE LA VEGA.GR</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 3.0 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 0.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 19/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 17:14:51 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; E CHURRIANA DE LA VEGA.GR&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 37.1504, -3.6323
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-3.6323,37.1504,0</coordinates>
+      </Point>
+    </Placemark>
     <Placemark>
       <name>M 1.6 - SE ARMILLA.GR</name>
       <styleUrl>#terremoto</styleUrl>
