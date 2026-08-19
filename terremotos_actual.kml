@@ -10,5 +10,707 @@
         </Icon>
       </IconStyle>
     </Style>
+    <Placemark>
+      <name>M 1.6 - SE ARMILLA.GR</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 1.6 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 2.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 19/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 15:29:55 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; SE ARMILLA.GR&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 37.1332, -3.6154
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-3.6154,37.1332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 2.0 - N ALHENDÍN.GR</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 2.0 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 0.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 19/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 14:55:34 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; N ALHENDÍN.GR&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 37.1229, -3.6427
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-3.6427,37.1229,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 1.5 - SE ARMILLA.GR</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 1.5 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 3.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 19/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 14:28:10 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; SE ARMILLA.GR&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 37.1391, -3.6254
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-3.6254,37.1391,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 2.0 - SW ARMILLA.GR</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 2.0 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 0.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 19/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 12:06:38 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; SW ARMILLA.GR&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 37.1337, -3.6436
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-3.6436,37.1337,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 1.7 - SE LA ZUBIA.GR</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 1.7 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 4.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 19/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 11:47:18 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; SE LA ZUBIA.GR&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 37.1123, -3.5762
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-3.5762,37.1123,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 1.6 - SE ARMILLA.GR</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 1.6 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 0.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 19/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 11:44:24 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; SE ARMILLA.GR&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 37.1349, -3.6117
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-3.6117,37.1349,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 2.3 - SE TARASCON SUR ARRIEGE.FRA</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 2.3 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 3.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 19/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 10:39:19 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; SE TARASCON SUR ARRIEGE.FRA&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 42.7432, 1.6582
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>1.6582,42.7432,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 2.8 - NW ARMILLA.GR</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 2.8 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 0.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 19/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 10:32:56 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; NW ARMILLA.GR&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 37.1479, -3.6298
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-3.6298,37.1479,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 2.0 - W VALENCIA DEL VENTOSO.BA</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 2.0 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 0.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 19/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 10:07:49 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; W VALENCIA DEL VENTOSO.BA&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 38.246, -6.5685
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-6.5685,38.246,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 1.6 - SW LA ZUBIA.GR</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 1.6 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 12.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 19/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 09:23:39 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; SW LA ZUBIA.GR&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 37.1127, -3.5921
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-3.5921,37.1127,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 1.6 - W HUÉTOR VEGA.GR</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 1.6 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 12.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 19/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 08:58:28 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; W HUÉTOR VEGA.GR&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 37.1424, -3.5845
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-3.5845,37.1424,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 2.3 - SE GÓJAR.GR</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 2.3 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 9.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 19/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 08:03:23 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; SE GÓJAR.GR&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 37.1005, -3.6018
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-3.6018,37.1005,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 1.5 - NE CHURRIANA DE LA VEGA.GR</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 1.5 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 10.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 19/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 07:27:13 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; NE CHURRIANA DE LA VEGA.GR&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 37.1569, -3.6319
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-3.6319,37.1569,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 1.8 - SE OGÍJARES.GR</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 1.8 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 6.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 19/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 07:21:41 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; SE OGÍJARES.GR&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 37.114, -3.5979
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-3.5979,37.114,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 1.5 - SE LA ZUBIA.GR</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 1.5 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 6.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 19/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 07:10:48 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; SE LA ZUBIA.GR&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 37.1105, -3.5796
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-3.5796,37.1105,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 2.0 - SW ARMILLA.GR</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 2.0 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 7.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 19/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 07:01:58 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; SW ARMILLA.GR&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 37.1318, -3.63
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-3.63,37.1318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 1.6 - SW LA ZUBIA.GR</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 1.6 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 1.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 19/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 06:48:20 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; SW LA ZUBIA.GR&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 37.1165, -3.5959
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-3.5959,37.1165,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 1.6 - SW GRANADA.GR</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 1.6 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 7.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 19/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 06:29:29 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; SW GRANADA.GR&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 37.1655, -3.6134
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-3.6134,37.1655,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 1.8 - SE ARMILLA.GR</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 1.8 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 1.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 19/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 05:48:01 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; SE ARMILLA.GR&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 37.1338, -3.6244
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-3.6244,37.1338,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 1.6 - E NACIMIENTO.AL</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 1.6 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 12.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 19/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 05:41:08 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; E NACIMIENTO.AL&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 37.1097, -2.6117
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-2.6117,37.1097,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 1.6 - SE LA ZUBIA.GR</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 1.6 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 9.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 19/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 05:33:49 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; SE LA ZUBIA.GR&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 37.1138, -3.5823
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-3.5823,37.1138,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 1.8 - E VILARDEVÓS.OU</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 1.8 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 0.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 19/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 05:08:03 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; E VILARDEVÓS.OU&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 41.9013, -7.1894
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-7.1894,41.9013,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 2.5 - SE VILLA DE OTURA.GR</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 2.5 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 1.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 19/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 03:43:31 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; SE VILLA DE OTURA.GR&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 37.087, -3.6193
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-3.6193,37.087,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 1.5 - W FRONTERA.IHI</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 1.5 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 18.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 19/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 02:37:34 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; W FRONTERA.IHI&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 27.7752, -18.1298
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-18.1298,27.7752,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 2.3 - NE ALHENDÍN.GR</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 2.3 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 0.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 19/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 02:29:14 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; NE ALHENDÍN.GR&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 37.1167, -3.6393
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-3.6393,37.1167,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 1.9 - E EL PASO.ILP</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 1.9 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 16.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 19/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 02:22:57 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; E EL PASO.ILP&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 28.6438, -17.8419
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-17.8419,28.6438,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 1.6 - NW OGÍJARES.GR</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 1.6 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 6.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 19/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 02:15:55 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; NW OGÍJARES.GR&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 37.1264, -3.618
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-3.618,37.1264,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 2.2 - W GÓJAR.GR</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 2.2 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 0.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 19/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 02:07:51 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; W GÓJAR.GR&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 37.1047, -3.6213
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-3.6213,37.1047,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 3.0 - N RELIZANE.ARG</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 3.0 M(mb)&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 28.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 19/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 01:20:03 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; N RELIZANE.ARG&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 35.9211, 0.595
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>0.595,35.9211,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 1.8 - SE LAS GABIAS.GR</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 1.8 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 0.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 19/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 00:34:24 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; SE LAS GABIAS.GR&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 37.1328, -3.6619
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-3.6619,37.1328,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 1.7 - SE LA ZUBIA.GR</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 1.7 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 10.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 18/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 23:45:22 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; SE LA ZUBIA.GR&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 37.0996, -3.5676
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-3.5676,37.0996,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 2.7 - GOLFO DE CÁDIZ</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 2.7 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 12.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 18/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 22:20:47 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; GOLFO DE CÁDIZ&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 36.1337, -7.9564
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-7.9564,36.1337,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 2.3 - NW VINHAIS.POR</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 2.3 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 7.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 18/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 22:12:43 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; NW VINHAIS.POR&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 41.9162, -7.1719
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-7.1719,41.9162,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 1.6 - SE LOURDES.FRA</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 1.6 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 2.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 18/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 22:04:33 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; SE LOURDES.FRA&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 43.0508, -0.0273
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-0.0273,43.0508,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 1.7 - E LA OLIVA.IFV</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 1.7 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 4.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 18/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 21:56:28 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; E LA OLIVA.IFV&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 28.6154, -13.7902
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-13.7902,28.6154,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 2.1 - NW OGÍJARES.GR</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 2.1 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 1.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 18/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 21:48:46 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; NW OGÍJARES.GR&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 37.1228, -3.6214
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-3.6214,37.1228,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 2.1 - S ARMILLA.GR</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 2.1 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 0.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 18/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 20:40:24 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; S ARMILLA.GR&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 37.1279, -3.6271
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-3.6271,37.1279,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 3.4 - SW OGÍJARES.GR</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 3.4 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 0.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 18/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 20:35:39 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; SW OGÍJARES.GR&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 37.1162, -3.6158
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-3.6158,37.1162,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M 1.5 - SW ARMILLA.GR</name>
+      <styleUrl>#terremoto</styleUrl>
+      <description>
+    &lt;![CDATA[
+    &lt;h3&gt;🌍 Terremoto&lt;/h3&gt;
+    &lt;b&gt;Magnitud:&lt;/b&gt; 1.5 mbLg&lt;br&gt;
+    &lt;b&gt;Profundidad:&lt;/b&gt; 3.0 km&lt;br&gt;
+    &lt;b&gt;Fecha:&lt;/b&gt; 18/08/2026&lt;br&gt;
+    &lt;b&gt;Hora:&lt;/b&gt; 19:36:49 UTC&lt;br&gt;
+    &lt;b&gt;Localización:&lt;/b&gt; SW ARMILLA.GR&lt;br&gt;
+    &lt;b&gt;Coordenadas:&lt;/b&gt; 37.1293, -3.6318
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-3.6318,37.1293,0</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
