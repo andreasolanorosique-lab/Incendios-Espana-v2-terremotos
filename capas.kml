@@ -17,7 +17,7 @@
         <Link>
           <href>https://raw.githubusercontent.com/andreasolanorosique-lab/Incendios-Espana-v2-terremotos/main/incendios_actual.kml</href>
           <refreshMode>onInterval</refreshMode>
-          <refreshInterval>60</refreshInterval>
+          <refreshInterval>3600</refreshInterval>
         </Link>
       </NetworkLink>
     </Folder>
@@ -35,7 +35,7 @@
         <Link>
           <href>https://raw.githubusercontent.com/andreasolanorosique-lab/Incendios-Espana-v2-terremotos/main/terremotos_actual.kml</href>
           <refreshMode>onInterval</refreshMode>
-          <refreshInterval>60</refreshInterval>
+          <refreshInterval>3600</refreshInterval>
         </Link>
       </NetworkLink>
     </Folder>
