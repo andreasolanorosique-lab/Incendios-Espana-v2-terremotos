@@ -76,7 +76,7 @@ document = ET.SubElement(kml, "Document")
 nombre = ET.SubElement(document, "name")
 nombre.text = "🌍 Terremotos España - Últimas 24 horas"
 
-# Estilo del marcador
+# Estilo del marcador: círculo rojo con borde rojo
 style = ET.SubElement(document, "Style", id="terremoto")
 
 icon_style = ET.SubElement(style, "IconStyle")
@@ -87,7 +87,18 @@ scale.text = "1.2"
 icon = ET.SubElement(icon_style, "Icon")
 
 href = ET.SubElement(icon, "href")
-href.text = "http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png"
+href.text = "https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png"# Estilo del marcador: círculo rojo con borde rojo
+style = ET.SubElement(document, "Style", id="terremoto")
+
+icon_style = ET.SubElement(style, "IconStyle")
+
+scale = ET.SubElement(icon_style, "scale")
+scale.text = "1.2"
+
+icon = ET.SubElement(icon_style, "Icon")
+
+href = ET.SubElement(icon, "href")
+href.text = "https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png"
 
 
 for t in terremotos:
