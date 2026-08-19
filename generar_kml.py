@@ -735,19 +735,6 @@ for grupo in grupos:
     ).text = f"{lon},{lat},0"
 
 
-# =====================================================
-# CARGAR RED DE GASODUCTOS
-# =====================================================
-
-print("Cargando red de gasoductos...")
-
-with open(
-    "infraestructuras/gasoductos/gasoductos.json",
-    encoding="utf-8",
-) as f:
-
-    gasoductos = json.load(f)
-
 
 # =====================================================
 # DIBUJAR RED DE GASODUCTOS
@@ -856,6 +843,5 @@ print("========================================")
 print("KML generado correctamente")
 print(f"Focos originales : {len(focos)}")
 print(f"Grupos creados   : {len(grupos)}")
-print(f"Gasoductos       : {len(gasoductos)}")
 print("Archivo: incendios_actual.kml")
 print("========================================")
