@@ -103,23 +103,109 @@ nombre.text = "🌍 Terremotos España - Últimas 24 horas"
 
 for t in terremotos:
 
-    placemark = ET.SubElement(document, "Placemark")
+    magnitud = t["magnitud"]
 
-    name = ET.SubElement(placemark, "name")
-    name.text = f"M {t['magnitud']} - {t['localizacion']}"
+    radio_exterior = max(1200, magnitud * 1800)
+    radio_interior = max(400, magnitud * 600)
 
-    style_url = ET.SubElement(placemark, "styleUrl")
-    style_url.text = "#terremoto"
+    # ================================
+    # HALO ROJO
+    # ================================
 
-    description = ET.SubElement(placemark, "description")
+    placemark_halo = ET.SubElement(
+        document,
+        "Placemark"
+    )
+
+    style_halo = ET.SubElement(
+        placemark_halo,
+        "Style"
+    )
+
+    line_halo = ET.SubElement(
+        style_halo,
+        "LineStyle"
+    )
+
+    ET.SubElement(
+        line_halo,
+        "color"
+    ).text = "ff0000ff"
+
+    ET.SubElement(
+        line_halo,
+        "width"
+    ).text = "2"
+
+    poly_halo = ET.SubElement(
+        style_halo,
+        "PolyStyle"
+    )
+
+    ET.SubElement(
+        poly_halo,
+        "color"
+    ).text = "550000ff"
+
+    polygon_halo = ET.SubElement(
+        placemark_halo,
+        "Polygon"
+    )
+
+    outer_halo = ET.SubElement(
+        polygon_halo,
+        "outerBoundaryIs"
+    )
+
+    ring_halo = ET.SubElement(
+        outer_halo,
+        "LinearRing"
+    )
+
+    coords_halo = ET.SubElement(
+        ring_halo,
+        "coordinates"
+    )
+
+    puntos_halo = crear_circulo(
+        t["latitud"],
+        t["longitud"],
+        radio_exterior
+    )
+
+    coords_halo.text = " ".join(
+        f"{lon},{lat},0"
+        for lat, lon in puntos_halo
+    )
+
+    # ================================
+    # CÍRCULO CENTRAL
+    # ================================
+
+    placemark = ET.SubElement(
+        document,
+        "Placemark"
+    )
+
+    name = ET.SubElement(
+        placemark,
+        "name"
+    )
+
+    name.text = f"M {magnitud} - {t['localizacion']}"
 
     fecha_es = t["fecha_hora"].strftime("%d/%m/%Y")
     hora_es = t["fecha_hora"].strftime("%H:%M:%S UTC")
 
+    description = ET.SubElement(
+        placemark,
+        "description"
+    )
+
     description.text = f"""
     <![CDATA[
     <h3>🌍 Terremoto</h3>
-    <b>Magnitud:</b> {t['magnitud']} {t['tipo_magnitud']}<br>
+    <b>Magnitud:</b> {magnitud} {t['tipo_magnitud']}<br>
     <b>Profundidad:</b> {t['profundidad']} km<br>
     <b>Fecha:</b> {fecha_es}<br>
     <b>Hora:</b> {hora_es}<br>
@@ -128,12 +214,66 @@ for t in terremotos:
     ]]>
     """
 
-    point = ET.SubElement(placemark, "Point")
+    style = ET.SubElement(
+        placemark,
+        "Style"
+    )
 
-    coordinates = ET.SubElement(point, "coordinates")
-    coordinates.text = f"{t['longitud']},{t['latitud']},0"
+    line = ET.SubElement(
+        style,
+        "LineStyle"
+    )
 
+    ET.SubElement(
+        line,
+        "color"
+    ).text = "ff0000ff"
 
+    ET.SubElement(
+        line,
+        "width"
+    ).text = "3"
+
+    poly = ET.SubElement(
+        style,
+        "PolyStyle"
+    )
+
+    ET.SubElement(
+        poly,
+        "color"
+    ).text = "ffff0000"
+
+    polygon = ET.SubElement(
+        placemark,
+        "Polygon"
+    )
+
+    outer = ET.SubElement(
+        polygon,
+        "outerBoundaryIs"
+    )
+
+    ring = ET.SubElement(
+        outer,
+        "LinearRing"
+    )
+
+    coords = ET.SubElement(
+        ring,
+        "coordinates"
+    )
+
+    puntos = crear_circulo(
+        t["latitud"],
+        t["longitud"],
+        radio_interior
+    )
+
+    coords.text = " ".join(
+        f"{lon},{lat},0"
+        for lat, lon in puntos
+    )
 # Guardar archivo
 tree = ET.ElementTree(kml)
 
