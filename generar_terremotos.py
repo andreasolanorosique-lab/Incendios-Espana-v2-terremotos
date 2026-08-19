@@ -17,10 +17,14 @@ limite = ahora - timedelta(hours=24)
 terremotos = []
 
 # Buscar las filas de la tabla
-for fila in soup.select("table tbody tr"):
-    columnas = [td.get_text(" ", strip=True) for td in fila.find_all("td")]
+for fila in soup.select("tr"):
+    columnas = [
+        td.get_text(" ", strip=True)
+        for td in fila.find_all("td")
+    ]
 
-    if len(columnas) < 11:
+    # Una fila válida debe tener al menos los datos básicos
+    if len(columnas) < 9:
         continue
 
     try:
@@ -33,7 +37,9 @@ for fila in soup.select("table tbody tr"):
         profundidad = float(columnas[6].replace(",", "."))
         magnitud = float(columnas[7].replace(",", "."))
         tipo_magnitud = columnas[8]
-        localizacion = columnas[10]
+
+        # La localización puede variar según la estructura
+        localizacion = columnas[10] if len(columnas) > 10 else "Sin localización"
 
         fecha_hora = datetime.strptime(
             f"{fecha} {hora}",
@@ -54,9 +60,11 @@ for fila in soup.select("table tbody tr"):
             })
 
     except Exception as e:
-        print("Error procesando fila:", e)
-
-
+        print(
+            "Error procesando fila:",
+            columnas,
+            e
+        )
 # Crear KML
 kml = ET.Element(
     "kml",
