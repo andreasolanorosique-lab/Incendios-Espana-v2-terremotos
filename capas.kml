@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>España - Capas en tiempo real</name>
+
+    <Folder>
+      <name>🔥 Incendios</name>
+      <open>0</open>
+
+      <NetworkLink>
+        <name>🔥 Incendios actuales</name>
+        <Link>
+          <href>https://raw.githubusercontent.com/andreasolanorosique-lab/Incendios-Espana-v2-terremotos/main/incendios_actual.kml</href>
+          <refreshMode>onInterval</refreshMode>
+          <refreshInterval>300</refreshInterval>
+        </Link>
+      </NetworkLink>
+    </Folder>
+
+    <Folder>
+      <name>🌍 Terremotos</name>
+      <open>0</open>
+
+      <NetworkLink>
+        <name>🌍 Terremotos - últimas 24 horas</name>
+        <Link>
+          <href>https://raw.githubusercontent.com/andreasolanorosique-lab/Incendios-Espana-v2-terremotos/main/terremotos_actual.kml</href>
+          <refreshMode>onInterval</refreshMode>
+          <refreshInterval>300</refreshInterval>
+        </Link>
+      </NetworkLink>
+    </Folder>
+
+  </Document>
+</kml>
