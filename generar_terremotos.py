@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta, timezone
+from math import radians, sin, cos, atan2, degrees, asin
 import xml.etree.ElementTree as ET
 
 URL = "https://www.ign.es/web/ign/portal/ultimos-terremotos/-/ultimos-terremotos/get10dias"
@@ -15,6 +16,29 @@ ahora = datetime.now(timezone.utc)
 limite = ahora - timedelta(hours=24)
 
 terremotos = []
+def crear_circulo(lat, lon, radio_m, pasos=48):
+    radio_tierra = 6371000
+    puntos = []
+
+    lat1 = radians(lat)
+    lon1 = radians(lon)
+
+    for i in range(pasos + 1):
+        angulo = radians(i * 360 / pasos)
+
+        lat2 = asin(
+            sin(lat1) * cos(radio_m / radio_tierra)
+            + cos(lat1) * sin(radio_m / radio_tierra) * cos(angulo)
+        )
+
+        lon2 = lon1 + atan2(
+            sin(angulo) * sin(radio_m / radio_tierra) * cos(lat1),
+            cos(radio_m / radio_tierra) - sin(lat1) * sin(lat2)
+        )
+
+        puntos.append((degrees(lat2), degrees(lon2)))
+
+    return puntos
 
 # Buscar las filas de la tabla
 for fila in soup.select("tr"):
@@ -75,30 +99,6 @@ document = ET.SubElement(kml, "Document")
 
 nombre = ET.SubElement(document, "name")
 nombre.text = "🌍 Terremotos España - Últimas 24 horas"
-
-# Estilo del marcador: círculo rojo con borde rojo
-style = ET.SubElement(document, "Style", id="terremoto")
-
-icon_style = ET.SubElement(style, "IconStyle")
-
-scale = ET.SubElement(icon_style, "scale")
-scale.text = "1.2"
-
-icon = ET.SubElement(icon_style, "Icon")
-
-href = ET.SubElement(icon, "href")
-href.text = "https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png"# Estilo del marcador: círculo rojo con borde rojo
-style = ET.SubElement(document, "Style", id="terremoto")
-
-icon_style = ET.SubElement(style, "IconStyle")
-
-scale = ET.SubElement(icon_style, "scale")
-scale.text = "1.2"
-
-icon = ET.SubElement(icon_style, "Icon")
-
-href = ET.SubElement(icon, "href")
-href.text = "https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png"
 
 
 for t in terremotos:
