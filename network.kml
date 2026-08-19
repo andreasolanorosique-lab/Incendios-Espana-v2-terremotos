@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+
+<Document>
+
+    <name>Incendios activos España</name>
+
+    <NetworkLink>
+
+        <name>🔥 Incendios activos España</name>
+
+        <Link>
+
+            <href>
+https://andreasolanorosique-lab.github.io/Incendios-Espana-v2/incendios_actual.kml
+            </href>
+
+            <refreshMode>onInterval</refreshMode>
+
+            <refreshInterval>600</refreshInterval>
+
+            <viewRefreshMode>never</viewRefreshMode>
+
+        </Link>
+
+    </NetworkLink>
+
+</Document>
+
+</kml>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>🌍 Terremotos España - Últimas 24 horas</name>
+    <Style id="terremoto">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+  </Document>
+</kml>
