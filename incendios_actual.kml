@@ -66,5 +66,2547 @@
         <color>5500ffff</color>
       </PolyStyle>
     </Style>
+    <Placemark>
+      <styleUrl>#area_amarilla</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>4.89552,43.43311898240888,0 4.895842577184689,43.4330984878816,0 4.896155352385917,43.4330376270565,0 4.896448821525603,43.43293824927675,0 4.896714067275421,43.43280337426636,0 4.896943030055613,43.432637100355635,0 4.897128752947999,43.432444479928776,0 4.897265593078404,43.43223136588135,0 4.8973493930457614,43.43200423375628,0 4.8973776071923325,43.43176998496602,0 4.897349378884453,43.43153573708242,0 4.897265566463849,43.43130860756797,0 4.8971287170903075,43.43109549752025,0 4.896942989279751,43.43090288199976,0 4.896714026499558,43.43073661331028,0 4.896448785667911,43.43060174320625,0 4.896155325771363,43.43050236942622,0 4.895842563023381,43.43044151121175,0 4.89552,43.43042101759113,0 4.895197436976621,43.43044151121175,0 4.8948846742286385,43.43050236942622,0 4.894591214332091,43.43060174320625,0 4.894325973500443,43.43073661331028,0 4.894097010720251,43.43090288199976,0 4.893911282909694,43.43109549752025,0 4.893774433536152,43.43130860756797,0 4.893690621115549,43.43153573708242,0 4.893662392807669,43.43176998496602,0 4.89369060695424,43.43200423375628,0 4.893774406921597,43.43223136588135,0 4.893911247052002,43.432444479928776,0 4.894096969944388,43.432637100355635,0 4.8943259327245805,43.43280337426636,0 4.894591178474399,43.43293824927675,0 4.894884647614084,43.4330376270565,0 4.895197422815312,43.4330984878816,0 4.89552,43.43311898240888,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#pink</styleUrl>
+      <name />
+      <description>
+    &lt;![CDATA[
+    &lt;h2&gt;🔥 Incendio activo&lt;/h2&gt;
+
+    &lt;table border="0" cellpadding="4"&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Focos agrupados&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;FRP máximo&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;0.9 MW&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Confianza&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Baja&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Fecha&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2026-10-03&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Hora&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;158 UTC&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Satélite&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;N20&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Instrumento&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;VIIRS&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Población más cercana&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Portbou&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Distancia&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;180.0 km&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Latitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;43.431770&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Longitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;4.895520&lt;/td&gt;
+        &lt;/tr&gt;
+
+    &lt;/table&gt;
+
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>4.89552,43.43177,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#area_amarilla</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>4.89149,43.43754898240888,0 4.891812600800268,43.437528487881536,0 4.892125398899381,43.437467627056236,0 4.89241888952339,43.43736824927617,0 4.892684154691086,43.4372333742654,0 4.892913134232654,43.43706710035427,0 4.89309887072063,43.436874479927035,0 4.893235720867793,43.43666136587929,0 4.89331952696882,43.43643423375402,0 4.89334774317973,43.436199984963686,0 4.893319512804282,43.43596573708017,0 4.893235694247168,43.435738607565916,0 4.893098834854758,43.4355254975185,0 4.892913093447491,43.4353328819984,0 4.892684113905922,43.43516661330932,0 4.89241885365752,43.43503174320568,0 4.892125372278756,43.434932369425944,0 4.891812586635729,43.434871511211675,0 4.89149,43.43485101759112,0 4.891167413364271,43.434871511211675,0 4.890854627721243,43.434932369425944,0 4.89056114634248,43.43503174320568,0 4.890295886094077,43.43516661330932,0 4.890066906552509,43.4353328819984,0 4.889881165145241,43.4355254975185,0 4.889744305752831,43.435738607565916,0 4.8896604871957186,43.43596573708017,0 4.88963225682027,43.436199984963686,0 4.88966047303118,43.43643423375402,0 4.8897442791322066,43.43666136587929,0 4.88988112927937,43.436874479927035,0 4.890066865767345,43.43706710035427,0 4.8902958453089145,43.4372333742654,0 4.890561110476609,43.43736824927617,0 4.890854601100618,43.437467627056236,0 4.891167399199731,43.437528487881536,0 4.89149,43.43754898240888,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#pink</styleUrl>
+      <name />
+      <description>
+    &lt;![CDATA[
+    &lt;h2&gt;🔥 Incendio activo&lt;/h2&gt;
+
+    &lt;table border="0" cellpadding="4"&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Focos agrupados&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;FRP máximo&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1.1 MW&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Confianza&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Baja&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Fecha&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2026-10-03&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Hora&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;158 UTC&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Satélite&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;N20&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Instrumento&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;VIIRS&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Población más cercana&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Portbou&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Distancia&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;180.1 km&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Latitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;43.436200&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Longitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;4.891490&lt;/td&gt;
+        &lt;/tr&gt;
+
+    &lt;/table&gt;
+
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>4.89149,43.4362,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#area_amarilla</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>4.88625,43.438538982408886,0 4.886572606078527,43.43851848788152,0 4.886885409295489,43.438457627056174,0 4.887178904721407,43.43835824927604,0 4.887444174229142,43.438223374265185,0 4.887673157517003,43.43805710035397,0 4.887858897043695,43.437864479926645,0 4.8879957494296775,43.43765136587884,0 4.8880795569016255,43.43742423375352,0 4.888107773573932,43.437189984963176,0 4.8880795427363655,43.436955737079664,0 4.8879957228076965,43.43672860756546,0 4.887858861175995,43.436515497518116,0 4.8876731167297605,43.43632288199809,0 4.887444133441899,43.436156613309116,0 4.887178868853707,43.43602174320556,0 4.8868853826735075,43.435922369425896,0 4.886572591913266,43.43586151121167,0 4.88625,43.43584101759112,0 4.885927408086735,43.43586151121167,0 4.885614617326493,43.435922369425896,0 4.885321131146294,43.43602174320556,0 4.885055866558102,43.436156613309116,0 4.88482688327024,43.43632288199809,0 4.884641138824006,43.436515497518116,0 4.884504277192304,43.43672860756546,0 4.884420457263636,43.436955737079664,0 4.88439222642607,43.437189984963176,0 4.884420443098375,43.43742423375352,0 4.884504250570323,43.43765136587884,0 4.884641102956307,43.437864479926645,0 4.884826842482998,43.43805710035397,0 4.88505582577086,43.438223374265185,0 4.885321095278595,43.43835824927604,0 4.885614590704511,43.438457627056174,0 4.885927393921474,43.43851848788152,0 4.88625,43.438538982408886,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#pink</styleUrl>
+      <name />
+      <description>
+    &lt;![CDATA[
+    &lt;h2&gt;🔥 Incendio activo&lt;/h2&gt;
+
+    &lt;table border="0" cellpadding="4"&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Focos agrupados&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;FRP máximo&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1.1 MW&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Confianza&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Baja&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Fecha&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2026-10-03&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Hora&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;158 UTC&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Satélite&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;N20&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Instrumento&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;VIIRS&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Población más cercana&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Portbou&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Distancia&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;179.8 km&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Latitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;43.437190&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Longitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;4.886250&lt;/td&gt;
+        &lt;/tr&gt;
+
+    &lt;/table&gt;
+
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>4.88625,43.43719,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#area_amarilla</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>4.881,43.43953898240888,0 4.881322611410374,43.43951848788149,0 4.881635419797146,43.4394576270561,0 4.8819289200737215,43.439358249275905,0 4.88219419396556,43.43922337426497,0 4.88242318103775,43.43905710035365,0 4.882608923634009,43.43886447992624,0 4.882745778281544,43.438651365878364,0 4.882829587138331,43.438424233753,0 4.882857804276716,43.43818998496264,0 4.882829572972341,43.43795573707914,0 4.882745751658192,43.43772860756498,0 4.882608887764463,43.437515497517715,0 4.882423140248409,43.43732288199777,0 4.8821941531762185,43.43715661330887,0 4.881928884204175,43.437021743205406,0 4.881635393173792,43.43692236942582,0 4.881322597244384,43.43686151121164,0 4.881,43.43684101759112,0 4.880677402755616,43.43686151121164,0 4.880364606826207,43.43692236942582,0 4.8800711157958245,43.437021743205406,0 4.879805846823782,43.43715661330887,0 4.879576859751592,43.43732288199777,0 4.8793911122355365,43.437515497517715,0 4.879254248341808,43.43772860756498,0 4.879170427027659,43.43795573707914,0 4.879142195723284,43.43818998496264,0 4.879170412861669,43.438424233753,0 4.879254221718456,43.438651365878364,0 4.879391076365991,43.43886447992624,0 4.879576818962249,43.43905710035365,0 4.879805806034439,43.43922337426497,0 4.880071079926279,43.439358249275905,0 4.880364580202855,43.4394576270561,0 4.880677388589627,43.43951848788149,0 4.881,43.43953898240888,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#pink</styleUrl>
+      <name />
+      <description>
+    &lt;![CDATA[
+    &lt;h2&gt;🔥 Incendio activo&lt;/h2&gt;
+
+    &lt;table border="0" cellpadding="4"&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Focos agrupados&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;FRP máximo&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;0.7 MW&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Confianza&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Baja&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Fecha&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2026-10-03&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Hora&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;158 UTC&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Satélite&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;N20&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Instrumento&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;VIIRS&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Población más cercana&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Portbou&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Distancia&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;179.5 km&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Latitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;43.438190&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Longitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;4.881000&lt;/td&gt;
+        &lt;/tr&gt;
+
+    &lt;/table&gt;
+
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>4.881,43.43819,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#area_amarilla</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>4.89273,43.44096898240887,0 4.893052619035393,43.44094848788147,0 4.893365434815453,43.440887627056014,0 4.893658942028907,43.44078824927572,0 4.893924222190408,43.440653374264656,0 4.894153214674525,43.4404871003532,0 4.89433896166054,43.440294479925676,0 4.8944758195422935,43.4400813658777,0 4.894559630379526,43.43985423375227,0 4.894587848184446,43.43961998496189,0 4.894559616212493,43.43938573707841,0 4.894475792916982,43.439158607564316,0 4.894338925788353,43.438945497517146,0 4.894153173882179,43.43875288199734,0 4.893924181398061,43.43858661330857,0 4.89365890615672,43.43845174320522,0 4.8933654081901405,43.43835236942573,0 4.89305260486836,43.438291511211624,0 4.89273,43.43827101759112,0 4.89240739513164,43.438291511211624,0 4.892094591809859,43.43835236942573,0 4.89180109384328,43.43845174320522,0 4.891535818601938,43.43858661330857,0 4.8913068261178205,43.43875288199734,0 4.891121074211647,43.438945497517146,0 4.890984207083019,43.439158607564316,0 4.890900383787508,43.43938573707841,0 4.890872151815554,43.43961998496189,0 4.890900369620475,43.43985423375227,0 4.890984180457706,43.4400813658777,0 4.8911210383394605,43.440294479925676,0 4.891306785325475,43.4404871003532,0 4.891535777809593,43.440653374264656,0 4.891801057971094,43.44078824927572,0 4.892094565184546,43.440887627056014,0 4.892407380964608,43.44094848788147,0 4.89273,43.44096898240887,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#pink</styleUrl>
+      <name />
+      <description>
+    &lt;![CDATA[
+    &lt;h2&gt;🔥 Incendio activo&lt;/h2&gt;
+
+    &lt;table border="0" cellpadding="4"&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Focos agrupados&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;FRP máximo&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;0.9 MW&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Confianza&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Baja&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Fecha&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2026-10-03&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Hora&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;158 UTC&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Satélite&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;N20&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Instrumento&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;VIIRS&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Población más cercana&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Portbou&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Distancia&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;180.4 km&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Latitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;43.439620&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Longitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;4.892730&lt;/td&gt;
+        &lt;/tr&gt;
+
+    &lt;/table&gt;
+
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>4.89273,43.43962,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#area_amarilla</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>4.88748,43.44196898240888,0 4.887802624367907,43.44194848788146,0 4.888115445318425,43.44188762705596,0 4.888408957383144,43.44178824927559,0 4.888674241929297,43.44165337426444,0 4.888903238198216,43.4414871003529,0 4.889088988254183,43.4412944799253,0 4.88922584839777,43.441081365877245,0 4.889309660620015,43.44085423375177,0 4.889337878891073,43.440619984961366,0 4.8893096464522525,43.44038573707791,0 4.8892258217710864,43.440158607563866,0 4.889088952380149,43.43994549751676,0 4.888903197403771,43.43975288199704,0 4.888674201134852,43.439586613308364,0 4.888408921509111,43.439451743205105,0 4.888115418691741,43.43935236942568,0 4.887802610200144,43.439291511211614,0 4.88748,43.43927101759113,0 4.887157389799856,43.439291511211614,0 4.886844581308259,43.43935236942568,0 4.88655107849089,43.439451743205105,0 4.886285798865149,43.439586613308364,0 4.88605680259623,43.43975288199704,0 4.885871047619852,43.43994549751676,0 4.885734178228914,43.440158607563866,0 4.885650353547748,43.44038573707791,0 4.885622121108927,43.440619984961366,0 4.8856503393799855,43.44085423375177,0 4.88573415160223,43.441081365877245,0 4.8858710117458175,43.4412944799253,0 4.886056761801784,43.4414871003529,0 4.886285758070703,43.44165337426444,0 4.886551042616856,43.44178824927559,0 4.886844554681576,43.44188762705596,0 4.887157375632093,43.44194848788146,0 4.88748,43.44196898240888,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#pink</styleUrl>
+      <name />
+      <description>
+    &lt;![CDATA[
+    &lt;h2&gt;🔥 Incendio activo&lt;/h2&gt;
+
+    &lt;table border="0" cellpadding="4"&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Focos agrupados&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;FRP máximo&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;0.9 MW&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Confianza&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Baja&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Fecha&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2026-10-03&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Hora&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;158 UTC&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Satélite&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;N20&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Instrumento&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;VIIRS&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Población más cercana&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Portbou&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Distancia&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;180.1 km&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Latitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;43.440620&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Longitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;4.887480&lt;/td&gt;
+        &lt;/tr&gt;
+
+    &lt;/table&gt;
+
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>4.88748,43.44062,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#area_amarilla</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>4.88223,43.44296898240889,0 4.882552629700696,43.442948487881445,0 4.882865455821935,43.4428876270559,0 4.883158972738172,43.44278824927546,0 4.8834242616692025,43.442653374264225,0 4.8836532617231185,43.4424871003526,0 4.883839014849194,43.442294479924904,0 4.883975877254732,43.44208136587679,0 4.88405969086206,43.441854233751265,0 4.884087909599281,43.441619984960845,0 4.884059676693568,43.4413857370774,0 4.883975850626677,43.441158607563395,0 4.883838978973313,43.44094549751637,0 4.883653220926572,43.44075288199673,0 4.883424220872656,43.44058661330815,0 4.883158936862291,43.44045174320497,0 4.88286542919388,43.44035236942561,0 4.882552615532204,43.44029151121159,0 4.88223,43.44027101759112,0 4.881907384467795,43.44029151121159,0 4.8815945708061195,43.44035236942561,0 4.881301063137708,43.44045174320497,0 4.881035779127343,43.44058661330815,0 4.880806779073427,43.44075288199673,0 4.880621021026686,43.44094549751637,0 4.880484149373322,43.441158607563395,0 4.88040032330643,43.4413857370774,0 4.880372090400718,43.441619984960845,0 4.880400309137939,43.441854233751265,0 4.880484122745267,43.44208136587679,0 4.880620985150806,43.442294479924904,0 4.880806738276881,43.4424871003526,0 4.881035738330796,43.442653374264225,0 4.881301027261828,43.44278824927546,0 4.881594544178064,43.4428876270559,0 4.881907370299303,43.442948487881445,0 4.88223,43.44296898240889,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#pink</styleUrl>
+      <name />
+      <description>
+    &lt;![CDATA[
+    &lt;h2&gt;🔥 Incendio activo&lt;/h2&gt;
+
+    &lt;table border="0" cellpadding="4"&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Focos agrupados&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;FRP máximo&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1.2 MW&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Confianza&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Baja&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Fecha&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2026-10-03&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Hora&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;158 UTC&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Satélite&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;N20&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Instrumento&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;VIIRS&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Población más cercana&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Portbou&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Distancia&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;179.8 km&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Latitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;43.441620&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Longitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;4.882230&lt;/td&gt;
+        &lt;/tr&gt;
+
+    &lt;/table&gt;
+
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>4.88223,43.44162,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#area_amarilla</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>4.90045,43.446828982408896,0 4.900772650287839,43.44680848788139,0 4.901085496370563,43.44674762705567,0 4.901379032015995,43.44664824927496,0 4.9016443378747745,43.4465133742634,0 4.901873352540604,43.44634710035142,0 4.902059117518785,43.446154479923386,0 4.902195988656544,43.445941365874994,0 4.902279807610966,43.44571423374929,0 4.902308028147796,43.445479984958816,0 4.902279793439657,43.44524573707544,0 4.902195962023196,43.445018607561614,0 4.902059081635773,43.44480549751485,0 4.901873311735949,43.44461288199553,0 4.901644297070119,43.44444661330731,0 4.9013789961329834,43.444311743204466,0 4.901085469737215,43.44421236942539,0 4.90077263611653,43.444151511211544,0 4.90045,43.44413101759113,0 4.900127363883471,43.444151511211544,0 4.899814530262787,43.44421236942539,0 4.899521003867018,43.444311743204466,0 4.8992557029298816,43.44444661330731,0 4.899026688264052,43.44461288199553,0 4.898840918364228,43.44480549751485,0 4.898704037976805,43.445018607561614,0 4.898620206560343,43.44524573707544,0 4.898591971852205,43.445479984958816,0 4.898620192389036,43.44571423374929,0 4.898704011343457,43.445941365874994,0 4.898840882481215,43.446154479923386,0 4.899026647459396,43.44634710035142,0 4.899255662125227,43.4465133742634,0 4.899520967984006,43.44664824927496,0 4.899814503629439,43.44674762705567,0 4.900127349712162,43.44680848788139,0 4.90045,43.446828982408896,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#pink</styleUrl>
+      <name />
+      <description>
+    &lt;![CDATA[
+    &lt;h2&gt;🔥 Incendio activo&lt;/h2&gt;
+
+    &lt;table border="0" cellpadding="4"&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Focos agrupados&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;FRP máximo&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2.5 MW&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Confianza&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Baja&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Fecha&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2026-10-03&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Hora&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;158 UTC&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Satélite&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;N20&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Instrumento&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;VIIRS&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Población más cercana&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Portbou&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Distancia&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;181.3 km&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Latitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;43.445480&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Longitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;4.900450&lt;/td&gt;
+        &lt;/tr&gt;
+
+    &lt;/table&gt;
+
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>4.90045,43.44548,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#area_amarilla</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>4.89519,43.447828982408886,0 4.895512655621962,43.44780848788137,0 4.895825506876702,43.447747627055605,0 4.8961190473748655,43.44764824927481,0 4.89638435761962,43.44751337426317,0 4.896613376071395,43.4473471003511,0 4.896799144120453,43.44715447992298,0 4.896936017520727,43.44694136587453,0 4.89701983786058,43.446714233748786,0 4.89704805886369,43.44647998495829,0 4.8970198236885425,43.44624573707492,0 4.896935990886009,43.446018607561136,0 4.8967991082355935,43.44580549751445,0 4.896613335264638,43.445612881995224,0 4.896384316812864,43.445446613307084,0 4.896119011490006,43.44531174320433,0 4.895825480241983,43.44521236942531,0 4.895512641449924,43.445151511211506,0 4.89519,43.44513101759112,0 4.894867358550077,43.445151511211506,0 4.894554519758018,43.44521236942531,0 4.894260988509995,43.44531174320433,0 4.8939956831871365,43.445446613307084,0 4.893766664735364,43.445612881995224,0 4.893580891764408,43.44580549751445,0 4.893444009113993,43.446018607561136,0 4.893360176311459,43.44624573707492,0 4.893331941136312,43.44647998495829,0 4.8933601621394205,43.446714233748786,0 4.893443982479274,43.44694136587453,0 4.893580855879549,43.44715447992298,0 4.893766623928607,43.4473471003511,0 4.893995642380381,43.44751337426317,0 4.894260952625135,43.44764824927481,0 4.8945544931233,43.447747627055605,0 4.894867344378039,43.44780848788137,0 4.89519,43.447828982408886,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#pink</styleUrl>
+      <name />
+      <description>
+    &lt;![CDATA[
+    &lt;h2&gt;🔥 Incendio activo&lt;/h2&gt;
+
+    &lt;table border="0" cellpadding="4"&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Focos agrupados&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;FRP máximo&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2.1 MW&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Confianza&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Baja&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Fecha&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2026-10-03&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Hora&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;158 UTC&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Satélite&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;N20&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Instrumento&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;VIIRS&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Población más cercana&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Portbou&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Distancia&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;181.0 km&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Latitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;43.446480&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Longitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;4.895190&lt;/td&gt;
+        &lt;/tr&gt;
+
+    &lt;/table&gt;
+
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>4.89519,43.44648,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#area_amarilla</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.54476,38.379718982408875,0 -0.5444611808860436,38.379698487955686,0 -0.5441714417347958,38.37963762734393,0 -0.5438995865591667,38.37953824989105,0 -0.5436538758642698,38.37940337528161,0 -0.5434417756171744,38.379237101797564,0 -0.5432697303765363,38.37904448177166,0 -0.5431429674779507,38.37883136805108,0 -0.5430653382247546,38.37860423613933,0 -0.5430392009071092,38.37836998742315,0 -0.5430653491990687,38.378135739465435,0 -0.5431429881029147,38.37790860973764,0 -0.5432697581644753,38.37769549936305,0 -0.5434418072164527,38.37750288344162,0 -0.5436539074635482,38.37733661432547,0 -0.5438996143471058,38.377201743820514,0 -0.5441714623597599,38.377102369713626,0 -0.5444611918603578,38.377041511285825,0 -0.54476,38.37702101759111,0 -0.5450588081396422,38.377041511285825,0 -0.5453485376402402,38.377102369713626,0 -0.5456203856528944,38.377201743820514,0 -0.5458660925364518,38.37733661432547,0 -0.5460781927835473,38.37750288344162,0 -0.5462502418355248,38.37769549936305,0 -0.5463770118970853,38.37790860973764,0 -0.5464546508009314,38.378135739465435,0 -0.5464807990928909,38.37836998742315,0 -0.5464546617752456,38.37860423613933,0 -0.5463770325220494,38.37883136805108,0 -0.5462502696234638,38.37904448177166,0 -0.5460782243828256,38.379237101797564,0 -0.5458661241357302,38.37940337528161,0 -0.5456204134408333,38.37953824989105,0 -0.5453485582652043,38.37963762734393,0 -0.5450588191139565,38.379698487955686,0 -0.54476,38.379718982408875,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#pink</styleUrl>
+      <name />
+      <description>
+    &lt;![CDATA[
+    &lt;h2&gt;🔥 Incendio activo&lt;/h2&gt;
+
+    &lt;table border="0" cellpadding="4"&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Focos agrupados&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;FRP máximo&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1.0 MW&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Confianza&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Baja&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Fecha&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2026-10-03&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Hora&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;200 UTC&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Satélite&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;N20&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Instrumento&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;VIIRS&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Población más cercana&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Sant Vicent del Raspeig/San Vicente del Raspeig&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Distancia&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2.7 km&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Latitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;38.378370&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Longitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;-0.544760&lt;/td&gt;
+        &lt;/tr&gt;
+
+    &lt;/table&gt;
+
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-0.54476,38.37837,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#area_amarilla</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>1.66018,41.31349898240887,0 1.660491870026007,41.31347848791406,0 1.660794263465604,41.31341762718247,0 1.6610779917428413,41.31331824954596,0 1.6613344335432887,41.31318337471128,0 1.661555796813462,41.31301710098754,0 1.6617353555424412,41.31282448073639,0 1.6618676541283026,41.31261136683219,0 1.66194867311979,41.312384234800604,0 1.661975951300151,41.312149986042805,0 1.661948660409133,41.31191573812673,0 1.6618676302400812,41.31168860851878,0 1.6617353233579275,41.311475498327816,0 1.6615557602145834,41.31128288263162,0 1.66133439694441,41.31111661375517,0 1.6610779595583276,41.310981743475445,0 1.6607942395773827,41.31088236955217,0 1.6604918573153498,41.310821511244214,0 1.66018,41.31080101759112,0 1.6598681426846502,41.310821511244214,0 1.6595657604226173,41.31088236955217,0 1.6592820404416724,41.310981743475445,0 1.6590256030555899,41.31111661375517,0 1.6588042397854166,41.31128288263162,0 1.6586246766420725,41.311475498327816,0 1.6584923697599188,41.31168860851878,0 1.658411339590867,41.31191573812673,0 1.658384048699849,41.312149986042805,0 1.6584113268802099,41.312384234800604,0 1.6584923458716974,41.31261136683219,0 1.6586246444575587,41.31282448073639,0 1.658804203186538,41.31301710098754,0 1.6590255664567113,41.31318337471128,0 1.6592820082571587,41.31331824954596,0 1.6595657365343959,41.31341762718247,0 1.659868129973993,41.31347848791406,0 1.66018,41.31349898240887,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#pink</styleUrl>
+      <name />
+      <description>
+    &lt;![CDATA[
+    &lt;h2&gt;🔥 Incendio activo&lt;/h2&gt;
+
+    &lt;table border="0" cellpadding="4"&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Focos agrupados&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;FRP máximo&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;0.5 MW&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Confianza&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Baja&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Fecha&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2026-10-03&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Hora&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;200 UTC&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Satélite&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;N20&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Instrumento&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;VIIRS&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Población más cercana&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Santa Margarida i els Monjos&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Distancia&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1.0 km&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Latitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;41.312150&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Longitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1.660180&lt;/td&gt;
+        &lt;/tr&gt;
+
+    &lt;/table&gt;
+
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>1.66018,41.31215,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#area_amarilla</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-2.21862,43.04281898240888,0 -2.2182994824654214,43.042798487887744,0 -2.217988704320191,43.04273762708035,0 -2.2176971089516972,43.042638249327716,0 -2.217433556746396,43.04250337435058,0 -2.217206055822147,43.04233710047525,0 -2.21702151867938,43.04214448008165,0 -2.2168855521682733,43.041931366061334,0 -2.216802287153693,43.04170423395396,0 -2.2167742530502665,43.04146998516984,0 -2.2168023010338236,43.04123573728009,0 -2.2168855782543853,43.04100860774795,0 -2.2170215538251035,43.04079549767311,0 -2.2172060957883892,43.040602882119366,0 -2.2174335967126386,43.04043661339449,0 -2.217697144097421,43.04030174325722,0 -2.217988730406303,43.040202369450064,0 -2.218299496345552,43.0401415112179,0 -2.21862,43.040121017591126,0 -2.218940503654448,43.0401415112179,0 -2.219251269593697,43.040202369450064,0 -2.219542855902579,43.04030174325722,0 -2.2198064032873615,43.04043661339449,0 -2.220033904211611,43.040602882119366,0 -2.2202184461748966,43.04079549767311,0 -2.220354421745615,43.04100860774795,0 -2.2204376989661765,43.04123573728009,0 -2.2204657469497335,43.04146998516984,0 -2.220437712846307,43.04170423395396,0 -2.2203544478317268,43.041931366061334,0 -2.2202184813206203,43.04214448008165,0 -2.2200339441778527,43.04233710047525,0 -2.219806443253604,43.04250337435058,0 -2.219542891048303,43.042638249327716,0 -2.219251295679809,43.04273762708035,0 -2.2189405175345787,43.042798487887744,0 -2.21862,43.04281898240888,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#pink</styleUrl>
+      <name />
+      <description>
+    &lt;![CDATA[
+    &lt;h2&gt;🔥 Incendio activo&lt;/h2&gt;
+
+    &lt;table border="0" cellpadding="4"&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Focos agrupados&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;FRP máximo&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;0.6 MW&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Confianza&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Baja&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Fecha&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2026-10-03&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Hora&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;200 UTC&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Satélite&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;N20&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Instrumento&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;VIIRS&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Población más cercana&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Beasain&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Distancia&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1.9 km&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Latitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;43.041470&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Longitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;-2.218620&lt;/td&gt;
+        &lt;/tr&gt;
+
+    &lt;/table&gt;
+
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-2.21862,43.04147,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#area_amarilla</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.34262,35.31385898240889,0 -1.3423329302552545,35.31383848799574,0 -1.342054583404894,35.31377762749928,0 -1.3417934172512518,35.31367825022301,0 -1.3415573674734356,35.31354337583023,0 -1.3413536064722393,35.31337710257675,0 -1.341188325422557,35.3131844827675,0 -1.3410665461576694,35.312971369223526,0 -1.3409919686012115,35.312744237427054,0 -1.3409668583803631,35.31250998875089,0 -1.3409919780310426,35.31227574075314,0 -1.3410665638799548,35.31204861091006,0 -1.3411883492997274,35.31183550035885,0 -1.341353633624356,35.31164288422076,0 -1.341557394625552,35.31147661487406,0 -1.3417934411284222,35.31134174415244,0 -1.3420546011271794,35.31124236986896,0 -1.3423329396850856,35.31118151132587,0 -1.34262,35.31116101759113,0 -1.3429070603149142,35.31118151132587,0 -1.3431853988728206,35.31124236986896,0 -1.3434465588715776,35.31134174415244,0 -1.343682605374448,35.31147661487406,0 -1.3438863663756442,35.31164288422076,0 -1.3440516507002724,35.31183550035885,0 -1.3441734361200453,35.31204861091006,0 -1.3442480219689574,35.31227574075314,0 -1.3442731416196367,35.31250998875089,0 -1.3442480313987886,35.312744237427054,0 -1.3441734538423304,35.312971369223526,0 -1.344051674577443,35.3131844827675,0 -1.3438863935277605,35.31337710257675,0 -1.3436826325265645,35.31354337583023,0 -1.343446582748748,35.31367825022301,0 -1.343185416595106,35.31377762749928,0 -1.3429070697447456,35.31383848799574,0 -1.34262,35.31385898240889,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#pink</styleUrl>
+      <name />
+      <description>
+    &lt;![CDATA[
+    &lt;h2&gt;🔥 Incendio activo&lt;/h2&gt;
+
+    &lt;table border="0" cellpadding="4"&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Focos agrupados&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;FRP máximo&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;0.4 MW&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Confianza&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Baja&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Fecha&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2026-10-03&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Hora&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;202 UTC&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Satélite&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;N20&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Instrumento&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;VIIRS&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Población más cercana&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Melilla&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Distancia&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;144.7 km&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Latitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;35.312510&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Longitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;-1.342620&lt;/td&gt;
+        &lt;/tr&gt;
+
+    &lt;/table&gt;
+
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-1.34262,35.31251,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#area_amarilla</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.27769,35.533258982408874,0 -0.27740214730296414,35.53323848799297,0 -0.2771230412945558,35.53317762748855,0 -0.2768611628478155,35.533078250200106,0 -0.2766244692875402,35.532943375792385,0 -0.2764201525771375,35.532777102523006,0 -0.2762544207764433,35.53258448269881,0 -0.27613230941297123,35.532371369142645,0 -0.2760575284979791,35.53214423733823,0 -0.27603234983351843,35.53190998865931,0 -0.2760575380304996,35.53167574066432,0 -0.27613232732824955,35.53144861082919,0 -0.27625444491363244,35.53123550029016,0 -0.27642018002493624,35.531042884167015,0 -0.27662449673533895,35.53087661483621,0 -0.2768611869850046,35.53074174412954,0 -0.27712305920983404,35.530642369858235,0 -0.2774021568354846,35.530581511323106,0 -0.27769,35.53056101759112,0 -0.27797784316451535,35.530581511323106,0 -0.2782569407901659,35.530642369858235,0 -0.27851881301499537,35.53074174412954,0 -0.27875550326466103,35.53087661483621,0 -0.27895981997506375,35.531042884167015,0 -0.27912555508636755,35.53123550029016,0 -0.27924767267175044,35.53144861082919,0 -0.2793224619695004,35.53167574066432,0 -0.27934765016648155,35.53190998865931,0 -0.2793224715020209,35.53214423733823,0 -0.27924769058702875,35.532371369142645,0 -0.2791255792235567,35.53258448269881,0 -0.2789598474228625,35.532777102523006,0 -0.2787555307124598,35.532943375792385,0 -0.2785188371521845,35.533078250200106,0 -0.2782569587054442,35.53317762748855,0 -0.27797785269703584,35.53323848799297,0 -0.27769,35.533258982408874,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#pink</styleUrl>
+      <name />
+      <description>
+    &lt;![CDATA[
+    &lt;h2&gt;🔥 Incendio activo&lt;/h2&gt;
+
+    &lt;table border="0" cellpadding="4"&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Focos agrupados&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;FRP máximo&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;0.5 MW&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Confianza&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Baja&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Fecha&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2026-10-03&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Hora&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;202 UTC&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Satélite&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;N20&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Instrumento&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;VIIRS&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Población más cercana&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Carboneras&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Distancia&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;218.1 km&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Latitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;35.531910&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Longitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;-0.277690&lt;/td&gt;
+        &lt;/tr&gt;
+
+    &lt;/table&gt;
+
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-0.27769,35.53191,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#area_amarilla</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.93911,35.566508982408884,0 -0.9388220279050798,35.566488487992544,0 -0.9385428061273381,35.566427627486924,0 -0.9382808190580292,35.56632825019663,0 -0.9380440273228531,35.56619337578663,0 -0.9378396258684575,35.56602710251484,0 -0.9376738253295813,35.56583448268836,0 -0.937551663322068,35.565621369130355,0 -0.9374768513955074,35.565394237324725,0 -0.9374516622936008,35.565159988645384,0 -0.9374768609436882,35.564925740650814,0 -0.9375516812667781,35.56469861081689,0 -0.937673849506424,35.56448550027972,0 -0.9378396533613484,35.56429288415884,0 -0.9380440548157443,35.564126614830464,0 -0.9382808432348718,35.563991744126064,0 -0.9385428240720483,35.563892369856596,0 -0.9388220374532606,35.56383151132268,0 -0.93911,35.563811017591114,0 -0.9393979625467394,35.56383151132268,0 -0.9396771759279517,35.563892369856596,0 -0.9399391567651282,35.563991744126064,0 -0.9401759451842557,35.564126614830464,0 -0.9403803466386516,35.56429288415884,0 -0.9405461504935759,35.56448550027972,0 -0.9406683187332219,35.56469861081689,0 -0.9407431390563118,35.564925740650814,0 -0.9407683377063992,35.565159988645384,0 -0.9407431486044926,35.565394237324725,0 -0.940668336677932,35.565621369130355,0 -0.9405461746704187,35.56583448268836,0 -0.9403803741315425,35.56602710251484,0 -0.9401759726771469,35.56619337578663,0 -0.9399391809419708,35.56632825019663,0 -0.9396771938726619,35.566427627486924,0 -0.9393979720949202,35.566488487992544,0 -0.93911,35.566508982408884,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#pink</styleUrl>
+      <name />
+      <description>
+    &lt;![CDATA[
+    &lt;h2&gt;🔥 Incendio activo&lt;/h2&gt;
+
+    &lt;table border="0" cellpadding="4"&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Focos agrupados&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;FRP máximo&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;0.5 MW&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Confianza&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Baja&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Fecha&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2026-10-03&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Hora&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;202 UTC&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Satélite&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;N20&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Instrumento&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;VIIRS&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Población más cercana&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Carboneras&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Distancia&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;180.8 km&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Latitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;35.565160&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Longitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;-0.939110&lt;/td&gt;
+        &lt;/tr&gt;
+
+    &lt;/table&gt;
+
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-0.93911,35.56516,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#area_amarilla</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.93833,35.56978898240888,0 -0.9380420161162585,35.56976848799251,0 -0.9377627829079627,35.569707627486764,0 -0.9375007851137397,35.56960825019628,0 -0.9372639836852061,35.56947337578607,0 -0.9370595738635616,35.569307102514024,0 -0.9368937665377802,35.56911448268733,0 -0.9367715995298974,35.568901369129144,0 -0.936696784541391,35.56867423732339,0 -0.936671594408937,35.568439988644016,0 -0.9366967940911182,35.568205740649496,0 -0.9367716174775134,35.567978610815686,0 -0.9368937907185382,35.56776550027869,0 -0.937059601360905,35.56757288415805,0 -0.9372640111825494,35.56740661482989,0 -0.9375008092944974,35.567271744125726,0 -0.9377628008555788,35.56717236985644,0 -0.9380420256659856,35.56711151132264,0 -0.93833,35.567091017591125,0 -0.9386179743340144,35.56711151132264,0 -0.9388971991444212,35.56717236985644,0 -0.9391591907055026,35.567271744125726,0 -0.9393959888174506,35.56740661482989,0 -0.939600398639095,35.56757288415805,0 -0.9397662092814618,35.56776550027869,0 -0.9398883825224866,35.567978610815686,0 -0.9399632059088818,35.568205740649496,0 -0.9399884055910631,35.568439988644016,0 -0.939963215458609,35.56867423732339,0 -0.9398884004701027,35.568901369129144,0 -0.9397662334622198,35.56911448268733,0 -0.9396004261364383,35.569307102514024,0 -0.939396016314794,35.56947337578607,0 -0.9391592148862604,35.56960825019628,0 -0.9388972170920374,35.569707627486764,0 -0.9386179838837415,35.56976848799251,0 -0.93833,35.56978898240888,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#pink</styleUrl>
+      <name />
+      <description>
+    &lt;![CDATA[
+    &lt;h2&gt;🔥 Incendio activo&lt;/h2&gt;
+
+    &lt;table border="0" cellpadding="4"&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Focos agrupados&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;FRP máximo&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;0.5 MW&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Confianza&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Baja&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Fecha&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2026-10-03&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Hora&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;202 UTC&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Satélite&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;N20&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Instrumento&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;VIIRS&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Población más cercana&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Carboneras&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Distancia&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;180.5 km&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Latitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;35.568440&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Longitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;-0.938330&lt;/td&gt;
+        &lt;/tr&gt;
+
+    &lt;/table&gt;
+
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-0.93833,35.56844,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#area_amarilla</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>4.47652,35.70889284633658,0 4.476839251507507,35.7088701662248,0 4.477148802188207,35.7088028150512,0 4.477439246034092,35.70869283935666,0 4.477701757709109,35.70854358086476,0 4.477928360744354,35.70835957492511,0 4.478112169921295,35.708146412684094,0 4.478247600475648,35.70791057117436,0 4.478330537765344,35.707659216488615,0 4.478358462250018,35.707399986021294,0 4.478330525989607,35.70714075639699,0 4.478247578344503,35.70688940413862,0 4.478112140104085,35.70665356634783,0 4.477928326837474,35.7064404086688,0 4.4777017238022285,35.70625640758389,0 4.477439216216882,35.706107153653974,0 4.477148780057062,35.70599718167839,0 4.476839239731771,35.70592983293216,0 4.47652,35.705907153663404,0 4.476200760268227,35.70592983293216,0 4.475891219942937,35.70599718167839,0 4.4756007837831175,35.706107153653974,0 4.475338276197771,35.70625640758389,0 4.475111673162526,35.7064404086688,0 4.474927859895915,35.70665356634783,0 4.474792421655496,35.70688940413862,0 4.474709474010392,35.70714075639699,0 4.474681537749982,35.707399986021294,0 4.474709462234656,35.707659216488615,0 4.474792399524351,35.70791057117436,0 4.474927830078704,35.708146412684094,0 4.475111639255645,35.70835957492511,0 4.475338242290889,35.70854358086476,0 4.475600753965907,35.70869283935666,0 4.475891197811792,35.7088028150512,0 4.4762007484924915,35.7088701662248,0 4.47652,35.70889284633658,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#pink</styleUrl>
+      <name />
+      <description>
+    &lt;![CDATA[
+    &lt;h2&gt;🔥 Incendio activo&lt;/h2&gt;
+
+    &lt;table border="0" cellpadding="4"&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Focos agrupados&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;FRP máximo&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;0.6 MW&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Confianza&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Baja&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Fecha&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2026-10-03&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Hora&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;202 UTC&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Satélite&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;N20&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Instrumento&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;VIIRS&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Población más cercana&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Santanyí&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Distancia&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;422.6 km&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Latitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;35.707400&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Longitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;4.476520&lt;/td&gt;
+        &lt;/tr&gt;
+
+    &lt;/table&gt;
+
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>4.47652,35.7074,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#area_amarilla</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.25862,35.765938982408876,0 -0.25833130764122014,35.76591848799002,0 -0.25805138748873424,35.765857627477125,0 -0.2577887451573084,35.76575825017569,0 -0.2575513611852326,35.76562337575203,0 -0.2573464485154529,35.765457102465696,0 -0.2571802333157293,35.76526448262555,0 -0.2570577657996842,35.76505136905641,0 -0.25698276679684745,35.76482423724351,0 -0.25695751473138967,35.764589988561646,0 -0.25698277643950435,35.7643557405696,0 -0.2570577839219513,35.76412861074295,0 -0.2571802577317937,35.76391550021692,0 -0.2573464762803769,35.763722884109704,0 -0.25755138895015656,35.76355661479586,0 -0.25778876957337277,35.76342174410513,0 -0.25805140561100137,35.76332236984681,0 -0.2583313172838771,35.76326151132016,0 -0.25862,35.76324101759112,0 -0.258908682716123,35.76326151132016,0 -0.2591885943889987,35.76332236984681,0 -0.2594512304266273,35.76342174410513,0 -0.25968861104984353,35.76355661479586,0 -0.2598935237196232,35.763722884109704,0 -0.2600597422682064,35.76391550021692,0 -0.2601822160780488,35.76412861074295,0 -0.26025722356049574,35.7643557405696,0 -0.2602824852686104,35.764589988561646,0 -0.2602572332031526,35.76482423724351,0 -0.2601822342003159,35.76505136905641,0 -0.2600597666842708,35.76526448262555,0 -0.2598935514845472,35.765457102465696,0 -0.2596886388147675,35.76562337575203,0 -0.2594512548426917,35.76575825017569,0 -0.25918861251126585,35.765857627477125,0 -0.25890869235877995,35.76591848799002,0 -0.25862,35.765938982408876,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#pink</styleUrl>
+      <name />
+      <description>
+    &lt;![CDATA[
+    &lt;h2&gt;🔥 Incendio activo&lt;/h2&gt;
+
+    &lt;table border="0" cellpadding="4"&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Focos agrupados&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;FRP máximo&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1.4 MW&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Confianza&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Baja&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Fecha&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2026-10-03&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Hora&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;202 UTC&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Satélite&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;N20&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Instrumento&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;VIIRS&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Población más cercana&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Carboneras&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Distancia&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;200.6 km&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Latitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;35.764590&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Longitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;-0.258620&lt;/td&gt;
+        &lt;/tr&gt;
+
+    &lt;/table&gt;
+
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-0.25862,35.76459,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#area_amarilla</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.26629,35.77063898240888,0 -0.26600129058095767,35.770618487989964,0 -0.2657213538866776,35.7705576274769,0 -0.2654586960346289,35.77045825017519,0 -0.26522129803475364,35.77032337575122,0 -0.26501637325626065,35.77015710246452,0 -0.26485014823482694,35.76996448262407,0 -0.2647276734824675,35.76975136905466,0 -0.264652670048518,35.76952423724159,0 -0.2646274164916975,35.76928998855967,0 -0.26465267969341283,35.76905574056769,0 -0.2647276916089404,35.7688286107412,0 -0.26485017265655786,35.76861550021543,0 -0.2650164010276284,35.76842288410855,0 -0.26522132580612146,35.76825661479504,0 -0.26545872045635993,35.76812174410464,0 -0.2657213720131506,35.76802236984658,0 -0.26600130022585244,35.767961511320095,0 -0.26629,35.76794101759112,0 -0.26657869977414755,35.767961511320095,0 -0.2668586279868494,35.76802236984658,0 -0.2671212795436401,35.76812174410464,0 -0.2673586741938786,35.76825661479504,0 -0.2675635989723716,35.76842288410855,0 -0.2677298273434421,35.76861550021543,0 -0.2678523083910596,35.7688286107412,0 -0.2679273203065872,35.76905574056769,0 -0.2679525835083025,35.76928998855967,0 -0.26792732995148205,35.76952423724159,0 -0.26785232651753255,35.76975136905466,0 -0.2677298517651731,35.76996448262407,0 -0.26756362674373935,35.77015710246452,0 -0.26735870196524636,35.77032337575122,0 -0.2671213039653711,35.77045825017519,0 -0.2668586461133224,35.7705576274769,0 -0.2665787094190424,35.770618487989964,0 -0.26629,35.77063898240888,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#pink</styleUrl>
+      <name />
+      <description>
+    &lt;![CDATA[
+    &lt;h2&gt;🔥 Incendio activo&lt;/h2&gt;
+
+    &lt;table border="0" cellpadding="4"&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Focos agrupados&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;FRP máximo&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1.6 MW&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Confianza&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Baja&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Fecha&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2026-10-03&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Hora&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;202 UTC&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Satélite&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;N20&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Instrumento&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;VIIRS&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Población más cercana&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Carboneras&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Distancia&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;199.7 km&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Latitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;35.769290&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Longitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;-0.266290&lt;/td&gt;
+        &lt;/tr&gt;
+
+    &lt;/table&gt;
+
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-0.26629,35.76929,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#area_amarilla</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.21296,35.806348982408885,0 -0.21267116082986826,35.806328487989504,0 -0.21239109832768796,35.80626762747514,0 -0.21212832243421287,35.80616825017143,0 -0.21189081774651525,35.806033375745,0 -0.21168580087572614,35.8058671024557,0 -0.21151950115570028,35.805674482612794,0 -0.2113969713678649,35.80546136904139,0 -0.21132193423327947,35.805234237227005,0 -0.21129666933396452,35.80499998854463,0 -0.21132194389519485,35.8047657405531,0 -0.21139698952632602,35.80453861072792,0 -0.21151952562052878,35.80432550020415,0 -0.2116858286961026,35.80413288409972,0 -0.21189084556689175,35.80396661478883,0 -0.2121283468990414,35.80383174410088,0 -0.2123911164861491,35.80373236984482,0 -0.2126711704917836,35.80367151131965,0 -0.21296,35.80365101759112,0 -0.21324882950821641,35.80367151131965,0 -0.2135288835138509,35.80373236984482,0 -0.21379165310095863,35.80383174410088,0 -0.21402915443310827,35.80396661478883,0 -0.2142341713038974,35.80413288409972,0 -0.21440047437947124,35.80432550020415,0 -0.214523010473674,35.80453861072792,0 -0.21459805610480517,35.8047657405531,0 -0.2146233306660355,35.80499998854463,0 -0.21459806576672055,35.805234237227005,0 -0.21452302863213515,35.80546136904139,0 -0.21440049884429974,35.805674482612794,0 -0.21423419912427388,35.8058671024557,0 -0.21402918225348477,35.806033375745,0 -0.21379167756578715,35.80616825017143,0 -0.21352890167231206,35.80626762747514,0 -0.21324883917013177,35.806328487989504,0 -0.21296,35.806348982408885,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#pink</styleUrl>
+      <name />
+      <description>
+    &lt;![CDATA[
+    &lt;h2&gt;🔥 Incendio activo&lt;/h2&gt;
+
+    &lt;table border="0" cellpadding="4"&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Focos agrupados&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;FRP máximo&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1.1 MW&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Confianza&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Baja&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Fecha&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2026-10-03&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Hora&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;202 UTC&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Satélite&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;N20&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Instrumento&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;VIIRS&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Población más cercana&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Carboneras&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Distancia&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;200.6 km&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Latitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;35.805000&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Longitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;-0.212960&lt;/td&gt;
+        &lt;/tr&gt;
+
+    &lt;/table&gt;
+
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-0.21296,35.805,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#area_amarilla</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.25717,35.80683898240888,0 -0.25688115904787806,35.806818487989496,0 -0.2566010948178631,35.8067576274751,0 -0.2563383173032172,35.806658250171374,0 -0.25610081115027833,35.80652337574491,0 -0.2558957930147016,35.80635710245557,0 -0.2557294922687718,35.80616448261262,0 -0.25560696172508396,35.80595136904119,0 -0.25553192412765696,35.80572423722679,0 -0.25550665907256515,35.805489988544416,0 -0.25553193378980604,35.80525574055289,0 -0.2556069798839844,35.805028610727724,0 -0.2557295167341922,35.804815500203986,0 -0.2558958208357512,35.80462288409959,0 -0.2561008389713279,35.80445661478874,0 -0.2563383417686376,35.80432174410082,0 -0.2566011129767635,35.80422236984479,0 -0.25688116871002725,35.80416151131963,0 -0.25717,35.804141017591114,0 -0.2574588312899728,35.80416151131963,0 -0.25773888702323655,35.80422236984479,0 -0.25800165823136245,35.80432174410082,0 -0.25823916102867217,35.80445661478874,0 -0.25844417916424883,35.80462288409959,0 -0.2586104832658079,35.804815500203986,0 -0.2587330201160157,35.805028610727724,0 -0.25880806621019403,35.80525574055289,0 -0.2588333409274349,35.805489988544416,0 -0.2588080758723431,35.80572423722679,0 -0.2587330382749161,35.80595136904119,0 -0.2586105077312283,35.80616448261262,0 -0.25844420698529846,35.80635710245557,0 -0.25823918884972175,35.80652337574491,0 -0.25800168269678286,35.806658250171374,0 -0.257738905182137,35.8067576274751,0 -0.257458840952122,35.806818487989496,0 -0.25717,35.80683898240888,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#pink</styleUrl>
+      <name />
+      <description>
+    &lt;![CDATA[
+    &lt;h2&gt;🔥 Incendio activo&lt;/h2&gt;
+
+    &lt;table border="0" cellpadding="4"&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Focos agrupados&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;FRP máximo&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1.4 MW&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Confianza&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Baja&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Fecha&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2026-10-03&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Hora&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;202 UTC&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Satélite&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;N20&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Instrumento&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;VIIRS&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Población más cercana&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Carboneras&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Distancia&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;197.6 km&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Latitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;35.805490&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Longitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;-0.257170&lt;/td&gt;
+        &lt;/tr&gt;
+
+    &lt;/table&gt;
+
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-0.25717,35.80549,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#area_amarilla</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.24357000000000004,35.80800898240888,0 -0.24328115479274753,35.80798848798949,0 -0.2430010864369171,35.80792762747506,0 -0.24273830505115407,35.80782825017127,0 -0.24250079539943442,35.80769337574471,0 -0.24229577424373092,35.807527102455296,0 -0.24212947104809326,35.80733448261227,0 -0.2420069386995409,35.80712136904077,0 -0.24193189999691622,35.80689423722633,0 -0.24190663456985229,35.806659988543935,0 -0.24193190965962355,35.80642574055243,0 -0.24200695685949042,35.80619861072731,0 -0.24212949551492705,35.805985500203626,0 -0.24229580206638773,35.80579288409931,0 -0.2425008232220913,35.80562661478855,0 -0.24273832951798788,35.80549174410071,0 -0.24300110459686663,35.80539236984474,0 -0.24328116445545483,35.80533151131963,0 -0.24357000000000004,35.80531101759113,0 -0.2438588355445452,35.80533151131963,0 -0.2441388954031334,35.80539236984474,0 -0.24440167048201217,35.80549174410071,0 -0.24463917677790875,35.80562661478855,0 -0.2448441979336123,35.80579288409931,0 -0.245010504485073,35.805985500203626,0 -0.24513304314050963,35.80619861072731,0 -0.2452080903403765,35.80642574055243,0 -0.24523336543014776,35.806659988543935,0 -0.24520810000308382,35.80689423722633,0 -0.24513306130045914,35.80712136904077,0 -0.24501052895190678,35.80733448261227,0 -0.24484422575626913,35.807527102455296,0 -0.24463920460056562,35.80769337574471,0 -0.24440169494884598,35.80782825017127,0 -0.24413891356308295,35.80792762747506,0 -0.2438588452072525,35.80798848798949,0 -0.24357000000000004,35.80800898240888,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#pink</styleUrl>
+      <name />
+      <description>
+    &lt;![CDATA[
+    &lt;h2&gt;🔥 Incendio activo&lt;/h2&gt;
+
+    &lt;table border="0" cellpadding="4"&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Focos agrupados&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;FRP máximo&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1.1 MW&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Confianza&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Baja&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Fecha&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2026-10-03&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Hora&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;202 UTC&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Satélite&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;N20&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Instrumento&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;VIIRS&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Población más cercana&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Carboneras&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Distancia&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;198.4 km&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Latitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;35.806660&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Longitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;-0.243570&lt;/td&gt;
+        &lt;/tr&gt;
+
+    &lt;/table&gt;
+
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-0.24357,35.80666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#area_amarilla</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.25208,35.80941898240887,0 -0.25179114966444305,35.80939848798947,0 -0.2515110763361595,35.809337627474974,0 -0.2512482902849067,35.80923825017111,0 -0.25101077641643915,35.80910337574446,0 -0.2508057516208638,35.80893710245494,0 -0.25063944547282613,35.80874448261182,0 -0.2505169109490421,35.80853136904023,0 -0.2504418709144277,35.80830423722574,0 -0.25041660503906105,35.80806998854333,0 -0.25044188057780775,35.807835740551845,0 -0.25051692911025597,35.807608610726774,0 -0.2506394699413633,35.80739550020317,0 -0.2508057794454577,35.807202884098956,0 -0.251010804241033,35.80703661478829,0 -0.25124831475344395,35.80690174410056,0 -0.2515110944973733,35.80680236984467,0 -0.2517911593278231,35.80674151131961,0 -0.25208,35.80672101759112,0 -0.2523688406721769,35.80674151131961,0 -0.2526489055026267,35.80680236984467,0 -0.2529116852465561,35.80690174410056,0 -0.253149195758967,35.80703661478829,0 -0.2533542205545423,35.807202884098956,0 -0.2535205300586367,35.80739550020317,0 -0.2536430708897441,35.807608610726774,0 -0.2537181194221923,35.807835740551845,0 -0.253743394960939,35.80806998854333,0 -0.25371812908557234,35.80830423722574,0 -0.2536430890509579,35.80853136904023,0 -0.2535205545271739,35.80874448261182,0 -0.2533542483791362,35.80893710245494,0 -0.25314922358356085,35.80910337574446,0 -0.2529117097150933,35.80923825017111,0 -0.25264892366384056,35.809337627474974,0 -0.25236885033555695,35.80939848798947,0 -0.25208,35.80941898240887,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#pink</styleUrl>
+      <name />
+      <description>
+    &lt;![CDATA[
+    &lt;h2&gt;🔥 Incendio activo&lt;/h2&gt;
+
+    &lt;table border="0" cellpadding="4"&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Focos agrupados&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;FRP máximo&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;3.3 MW&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Confianza&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Baja&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Fecha&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2026-10-03&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Hora&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;202 UTC&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Satélite&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;N20&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Instrumento&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;VIIRS&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Población más cercana&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Carboneras&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Distancia&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;197.7 km&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Latitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;35.808070&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Longitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;-0.252080&lt;/td&gt;
+        &lt;/tr&gt;
+
+    &lt;/table&gt;
+
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-0.25208,35.80807,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#area_amarilla</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.25633,35.81011898240887,0 -0.2560411471183437,35.81009848798946,0 -0.25576107132133774,35.81003762747495,0 -0.2554982829537637,35.80993825017104,0 -0.25526076699176614,35.809803375744345,0 -0.2550557403890682,35.80963710245477,0 -0.2548894327752236,35.809444482611596,0 -0.2547668971714811,35.80923136903998,0 -0.2546918564755607,35.80900423722545,0 -0.2546665903776208,35.808769988543034,0 -0.25469186613927475,35.808535740551555,0 -0.25476691533332263,35.80830861072651,0 -0.2548894572446065,35.80809550020296,0 -0.2550557682146238,35.80790288409878,0 -0.2552607948173217,35.80773661478817,0 -0.25549830742314666,35.80760174410048,0 -0.25576108948317927,35.807502369844634,0 -0.2560411567820577,35.807441511319595,0 -0.25633,35.80742101759112,0 -0.2566188432179423,35.807441511319595,0 -0.2568989105168208,35.807502369844634,0 -0.2571616925768534,35.80760174410048,0 -0.2573992051826783,35.80773661478817,0 -0.2576042317853763,35.80790288409878,0 -0.2577705427553935,35.80809550020296,0 -0.25789308466667743,35.80830861072651,0 -0.2579681338607253,35.808535740551555,0 -0.25799340962237927,35.808769988543034,0 -0.25796814352443936,35.80900423722545,0 -0.25789310282851896,35.80923136903998,0 -0.2577705672247765,35.809444482611596,0 -0.25760425961093186,35.80963710245477,0 -0.25739923300823386,35.809803375744345,0 -0.25716171704623636,35.80993825017104,0 -0.2568989286786623,35.81003762747495,0 -0.25661885288165637,35.81009848798946,0 -0.25633,35.81011898240887,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#pink</styleUrl>
+      <name />
+      <description>
+    &lt;![CDATA[
+    &lt;h2&gt;🔥 Incendio activo&lt;/h2&gt;
+
+    &lt;table border="0" cellpadding="4"&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Focos agrupados&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;FRP máximo&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;4.6 MW&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Confianza&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Baja&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Fecha&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2026-10-03&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Hora&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;202 UTC&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Satélite&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;N20&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Instrumento&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;VIIRS&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Población más cercana&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Carboneras&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Distancia&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;197.4 km&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Latitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;35.808770&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Longitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;-0.256330&lt;/td&gt;
+        &lt;/tr&gt;
+
+    &lt;/table&gt;
+
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-0.25633,35.80877,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#area_amarilla</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.23848,35.81058898240889,0 -0.2381911454087704,35.810568487989464,0 -0.23791106795414582,35.81050762747493,0 -0.23764827803128266,35.810408250170994,0 -0.23741076066358865,35.81027337574427,0 -0.2372057328475018,35.810107102454666,0 -0.23703942424944416,35.80991448261146,0 -0.23691688792056573,35.80970136903981,0 -0.23684184678061282,35.809474237225274,0 -0.23681658053322657,35.80923998854285,0 -0.2368418564445511,35.80900574055137,0 -0.23691690608282873,35.80877861072635,0 -0.23703944871939495,35.80856550020282,0 -0.23720576067370314,35.808372884098674,0 -0.23741078848978997,35.8082066147881,0 -0.23764830250123345,35.80807174410044,0 -0.23791108611640885,35.80797236984462,0 -0.23819115507270872,35.807911511319595,0 -0.23848,35.807891017591125,0 -0.23876884492729128,35.807911511319595,0 -0.23904891388359115,35.80797236984462,0 -0.23931169749876655,35.80807174410044,0 -0.23954921151021003,35.8082066147881,0 -0.2397542393262969,35.808372884098674,0 -0.23992055128060505,35.80856550020282,0 -0.24004309391717127,35.80877861072635,0 -0.2401181435554489,35.80900574055137,0 -0.24014341946677345,35.80923998854285,0 -0.24011815321938718,35.809474237225274,0 -0.24004311207943427,35.80970136903981,0 -0.23992057575055584,35.80991448261146,0 -0.23975426715249823,35.810107102454666,0 -0.23954923933641137,35.81027337574427,0 -0.23931172196871733,35.810408250170994,0 -0.23904893204585417,35.81050762747493,0 -0.23876885459122962,35.810568487989464,0 -0.23848,35.81058898240889,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#pink</styleUrl>
+      <name />
+      <description>
+    &lt;![CDATA[
+    &lt;h2&gt;🔥 Incendio activo&lt;/h2&gt;
+
+    &lt;table border="0" cellpadding="4"&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Focos agrupados&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;FRP máximo&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1.1 MW&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Confianza&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Baja&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Fecha&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2026-10-03&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Hora&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;202 UTC&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Satélite&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;N20&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Instrumento&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;VIIRS&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Población más cercana&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Carboneras&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Distancia&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;198.5 km&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Latitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;35.809240&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Longitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;-0.238480&lt;/td&gt;
+        &lt;/tr&gt;
+
+    &lt;/table&gt;
+
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-0.23848,35.80924,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#area_amarilla</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.25549,35.81340898240888,0 -0.2552011351504977,35.81338848798942,0 -0.2549210477493536,35.81332762747479,0 -0.2546582484939974,35.813228250170695,0 -0.2544207226914395,35.813093375743776,0 -0.2542156875944282,35.812927102453955,0 -0.25404937309061265,35.81273448261056,0 -0.25392683241056524,35.81252136903876,0 -0.2538517886062006,35.812294237224116,0 -0.2538265214620635,35.812059988541655,0 -0.25385179827148463,35.81182574055021,0 -0.2539268505753573,35.8115986107253,0 -0.2540493975639708,35.81138550020192,0 -0.2542157154245042,35.81119288409798,0 -0.25442075052151564,35.81102661478761,0 -0.25465827296735555,35.81089174410013,0 -0.2549210659141457,35.81079236984447,0 -0.2552011448157817,35.81073151131957,0 -0.25549,35.810711017591125,0 -0.2557788551842183,35.81073151131957,0 -0.2560589340858543,35.81079236984447,0 -0.25632172703264444,35.81089174410013,0 -0.25655924947848435,35.81102661478761,0 -0.25676428457549577,35.81119288409798,0 -0.25693060243602917,35.81138550020192,0 -0.25705314942464275,35.8115986107253,0 -0.25712820172851536,35.81182574055021,0 -0.25715347853793646,35.812059988541655,0 -0.2571282113937994,35.812294237224116,0 -0.25705316758943475,35.81252136903876,0 -0.2569306269093874,35.81273448261056,0 -0.2567643124055718,35.812927102453955,0 -0.2565592773085605,35.813093375743776,0 -0.2563217515060026,35.813228250170695,0 -0.2560589522506464,35.81332762747479,0 -0.2557788648495023,35.81338848798942,0 -0.25549,35.81340898240888,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#pink</styleUrl>
+      <name />
+      <description>
+    &lt;![CDATA[
+    &lt;h2&gt;🔥 Incendio activo&lt;/h2&gt;
+
+    &lt;table border="0" cellpadding="4"&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Focos agrupados&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;FRP máximo&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;4.6 MW&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Confianza&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Baja&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Fecha&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2026-10-03&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Hora&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;202 UTC&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Satélite&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;N20&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Instrumento&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;VIIRS&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Población más cercana&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Carboneras&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Distancia&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;197.2 km&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Latitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;35.812060&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Longitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;-0.255490&lt;/td&gt;
+        &lt;/tr&gt;
+
+    &lt;/table&gt;
+
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-0.25549,35.81206,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#area_amarilla</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.26825,35.81551898240888,0 -0.2679611274740474,35.8154984879894,0 -0.26768103262974347,35.81543762747469,0 -0.26741822639071444,35.81533825017047,0 -0.26718069427619595,35.815203375743415,0 -0.2669756537307376,35.81503710245344,0 -0.26680933480753694,35.81484448260989,0 -0.2666867908714313,35.81463136903798,0 -0.2666117450732396,35.81440423722326,0 -0.2665864772580476,35.81416998854077,0 -0.2666117547395306,35.813935740549354,0 -0.26668680903811603,35.81370861072451,0 -0.26680935928344496,35.813495500201256,0 -0.26697568156371326,35.81330288409746,0 -0.26718072210917165,35.81313661478724,0 -0.26741825086662246,35.81300174409992,0 -0.26768105079642807,35.812902369844366,0 -0.26796113714033837,35.81284151131953,0 -0.26825,35.812821017591126,0 -0.2685388628596616,35.81284151131953,0 -0.2688189492035719,35.812902369844366,0 -0.2690817491333775,35.81300174409992,0 -0.2693192778908283,35.81313661478724,0 -0.2695243184362867,35.81330288409746,0 -0.269690640716555,35.813495500201256,0 -0.26981319096188394,35.81370861072451,0 -0.2698882452604694,35.813935740549354,0 -0.26991352274195235,35.81416998854077,0 -0.2698882549267604,35.81440423722326,0 -0.26981320912856865,35.81463136903798,0 -0.26969066519246304,35.81484448260989,0 -0.26952434626926236,35.81503710245344,0 -0.269319305723804,35.815203375743415,0 -0.26908177360928554,35.81533825017047,0 -0.26881896737025657,35.81543762747469,0 -0.2685388725259526,35.8154984879894,0 -0.26825,35.81551898240888,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#pink</styleUrl>
+      <name />
+      <description>
+    &lt;![CDATA[
+    &lt;h2&gt;🔥 Incendio activo&lt;/h2&gt;
+
+    &lt;table border="0" cellpadding="4"&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Focos agrupados&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;FRP máximo&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1.1 MW&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Confianza&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Baja&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Fecha&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2026-10-03&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Hora&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;202 UTC&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Satélite&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;N20&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Instrumento&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;VIIRS&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Población más cercana&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Carboneras&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Distancia&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;196.2 km&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Latitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;35.814170&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Longitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;-0.268250&lt;/td&gt;
+        &lt;/tr&gt;
+
+    &lt;/table&gt;
+
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-0.26825,35.81417,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#area_amarilla</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.2725,35.81622898240889,0 -0.27221112489079663,35.816208487989385,0 -0.27193102754174797,35.81614762747465,0 -0.2716682189525991,35.81604825017039,0 -0.2714306847140029,35.815913375743285,0 -0.2712256423350532,35.81574710245326,0 -0.2710593219246573,35.81555448260966,0 -0.270936776892835,35.81534136903771,0 -0.2708617304236879,35.81511423722296,0 -0.27083646238267506,35.81487998854046,0 -0.2708617400903177,35.81464574054906,0 -0.27093679506015655,35.81441861072424,0 -0.27105934640142343,35.814205500201034,0 -0.27122567016900456,35.81401288409728,0 -0.2714307125479543,35.81384661478711,0 -0.27166824342936524,35.81371174409984,0 -0.2719310457090695,35.81361236984433,0 -0.2722111345574265,35.81355151131952,0 -0.2725,35.813531017591124,0 -0.2727888654425736,35.81355151131952,0 -0.2730689542909306,35.81361236984433,0 -0.27333175657063485,35.81371174409984,0 -0.2735692874520458,35.81384661478711,0 -0.27377432983099553,35.81401288409728,0 -0.27394065359857667,35.814205500201034,0 -0.27406320493984354,35.81441861072424,0 -0.2741382599096824,35.81464574054906,0 -0.27416353761732504,35.81487998854046,0 -0.2741382695763122,35.81511423722296,0 -0.2740632231071651,35.81534136903771,0 -0.2739406780753428,35.81555448260966,0 -0.27377435766494684,35.81574710245326,0 -0.2735693152859972,35.815913375743285,0 -0.27333178104740097,35.81604825017039,0 -0.2730689724582521,35.81614762747465,0 -0.27278887510920347,35.816208487989385,0 -0.2725,35.81622898240889,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#pink</styleUrl>
+      <name />
+      <description>
+    &lt;![CDATA[
+    &lt;h2&gt;🔥 Incendio activo&lt;/h2&gt;
+
+    &lt;table border="0" cellpadding="4"&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Focos agrupados&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;FRP máximo&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;0.5 MW&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Confianza&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Baja&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Fecha&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2026-10-03&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Hora&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;202 UTC&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Satélite&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;N20&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Instrumento&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;VIIRS&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Población más cercana&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Carboneras&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Distancia&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;195.8 km&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Latitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;35.814880&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Longitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;-0.272500&lt;/td&gt;
+        &lt;/tr&gt;
+
+    &lt;/table&gt;
+
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-0.2725,35.81488,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#area_amarilla</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>0.12571,36.01928898240889,0 0.12599961764829393,36.01926848798681,0 0.12628043497036337,36.01920762746462,0 0.1265439190865821,36.01910825014894,0 0.12678206387788069,36.01897337570783,0 0.12698763328230392,36.01880710240292,0 0.12715438117754246,36.01861448254531,0 0.1272772411661927,36.01840136896194,0 0.12735248049721815,36.018174237139746,0 0.127377813449014,36.01793998845466,0 0.12735247073317288,36.01770574046585,0 0.12727722281579018,36.01747861064848,0 0.12715435645411202,36.01726550013668,0 0.12698760516785612,36.017072884046925,0 0.1267820357634329,36.01690661475166,0 0.12654389436315164,36.0167717440784,0 0.1262804166199608,36.0166723698343,0 0.12599960788424866,36.01661151131694,0 0.12571,36.016591017591125,0 0.12542039211575132,36.01661151131694,0 0.12513958338003917,36.0166723698343,0 0.12487610563684833,36.0167717440784,0 0.12463796423656709,36.01690661475166,0 0.12443239483214383,36.017072884046925,0 0.12426564354588795,36.01726550013668,0 0.1241427771842098,36.01747861064848,0 0.12406752926682707,36.01770574046585,0 0.12404218655098598,36.01793998845466,0 0.12406751950278183,36.018174237139746,0 0.12414275883380727,36.01840136896194,0 0.1242656188224575,36.01861448254531,0 0.12443236671769606,36.01880710240292,0 0.12463793612211928,36.01897337570783,0 0.12487608091341786,36.01910825014894,0 0.1251395650296366,36.01920762746462,0 0.12542038235170605,36.01926848798681,0 0.12571,36.01928898240889,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#pink</styleUrl>
+      <name />
+      <description>
+    &lt;![CDATA[
+    &lt;h2&gt;🔥 Incendio activo&lt;/h2&gt;
+
+    &lt;table border="0" cellpadding="4"&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Focos agrupados&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;FRP máximo&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;0.8 MW&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Confianza&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Baja&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Fecha&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2026-10-03&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Hora&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;202 UTC&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Satélite&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;N20&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Instrumento&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;VIIRS&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Población más cercana&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;La Unión&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Distancia&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;199.0 km&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Latitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;36.017940&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Longitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;0.125710&lt;/td&gt;
+        &lt;/tr&gt;
+
+    &lt;/table&gt;
+
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>0.12571,36.01794,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#area_amarilla</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>1.24137,36.12948898240888,0 1.2416600237496722,36.12946848798539,0 1.241941234831531,36.129407627459145,0 1.2422050883996438,36.12930825013726,0 1.2424435671077634,36.12917337568851,0 1.242649424747206,36.12900710237547,0 1.2428164064377871,36.12881448251024,0 1.242939438679185,36.128601368920656,0 1.24301478348812,36.128374237094405,0 1.2430401519402088,36.12813998840791,0 1.2430147736707895,36.127905740420495,0 1.2429394202286386,36.12767861060719,0 1.2428163815794329,36.127465500101614,0 1.2426493964793284,36.12727288401949,0 1.242443538839886,36.12710661473234,0 1.2422050635412896,36.1269717440667,0 1.2419412163809844,36.126872369828824,0 1.2416600139323417,36.12681151131553,0 1.24137,36.126791017591124,0 1.2410799860676585,36.12681151131553,0 1.2407987836190157,36.126872369828824,0 1.2405349364587106,36.1269717440667,0 1.2402964611601142,36.12710661473234,0 1.2400906035206718,36.12727288401949,0 1.2399236184205673,36.127465500101614,0 1.2398005797713618,36.12767861060719,0 1.239725226329211,36.127905740420495,0 1.2396998480597914,36.12813998840791,0 1.2397252165118802,36.128374237094405,0 1.2398005613208154,36.128601368920656,0 1.239923593562213,36.12881448251024,0 1.2400905752527942,36.12900710237547,0 1.2402964328922368,36.12917337568851,0 1.2405349116003563,36.12930825013726,0 1.240798765168469,36.129407627459145,0 1.241079976250328,36.12946848798539,0 1.24137,36.12948898240888,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#pink</styleUrl>
+      <name />
+      <description>
+    &lt;![CDATA[
+    &lt;h2&gt;🔥 Incendio activo&lt;/h2&gt;
+
+    &lt;table border="0" cellpadding="4"&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Focos agrupados&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;FRP máximo&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2.5 MW&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Confianza&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Baja&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Fecha&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2026-10-03&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Hora&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;202 UTC&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Satélite&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;N20&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Instrumento&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;VIIRS&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Población más cercana&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;La Unión&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Distancia&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;250.9 km&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Latitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;36.128140&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Longitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1.241370&lt;/td&gt;
+        &lt;/tr&gt;
+
+    &lt;/table&gt;
+
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>1.24137,36.12814,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#area_amarilla</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-8.42061,40.29004898240888,0 -8.420302902192086,40.290028487929,0 -8.420005135940345,40.28996762724038,0 -8.419725749200632,40.28986824966972,0 -8.419473231353159,40.28973337491583,0 -8.419255255214077,40.28956710127807,0 -8.41907844387805,40.28937448110769,0 -8.418948169478858,40.28916136726935,0 -8.418868389982674,40.28893423528074,0 -8.418841528970145,40.28869998653787,0 -8.418868402054892,40.28846573860687,0 -8.418948192167205,40.28823860895593,0 -8.419078474445978,40.28802549869911,0 -8.419255289974645,40.28783288292213,0 -8.419473266113725,40.28766661395971,0 -8.419725779768562,40.28753174359921,0 -8.420005158628694,40.28743236961007,0 -8.420302914264305,40.28737151125913,0 -8.42061,40.28735101759112,0 -8.420917085735697,40.28737151125913,0 -8.421214841371308,40.28743236961007,0 -8.42149422023144,40.28753174359921,0 -8.421746733886275,40.28766661395971,0 -8.421964710025355,40.28783288292213,0 -8.422141525554022,40.28802549869911,0 -8.422271807832795,40.28823860895593,0 -8.42235159794511,40.28846573860687,0 -8.422378471029857,40.28869998653787,0 -8.422351610017326,40.28893423528074,0 -8.422271830521144,40.28916136726935,0 -8.422141556121952,40.28937448110769,0 -8.421964744785924,40.28956710127807,0 -8.421746768646843,40.28973337491583,0 -8.421494250799368,40.28986824966972,0 -8.421214864059655,40.28996762724038,0 -8.420917097807914,40.290028487929,0 -8.42061,40.29004898240888,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#pink</styleUrl>
+      <name />
+      <description>
+    &lt;![CDATA[
+    &lt;h2&gt;🔥 Incendio activo&lt;/h2&gt;
+
+    &lt;table border="0" cellpadding="4"&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Focos agrupados&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;FRP máximo&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1.0 MW&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Confianza&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Baja&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Fecha&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2026-10-03&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Hora&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;340 UTC&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Satélite&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;N20&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Instrumento&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;VIIRS&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Población más cercana&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Cedillo&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Distancia&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;105.7 km&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Latitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;40.288700&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Longitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;-8.420610&lt;/td&gt;
+        &lt;/tr&gt;
+
+    &lt;/table&gt;
+
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>-8.42061,40.2887,0</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
