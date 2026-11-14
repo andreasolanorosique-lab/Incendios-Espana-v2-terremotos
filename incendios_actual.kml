@@ -5150,5 +5150,87 @@
         <coordinates>-8.79674,37.95189,0</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <styleUrl>#area_amarilla</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.85994,39.48484898240888,0 2.8602435118761766,39.484828487940426,0 2.860537801174421,39.484767627284725,0 2.86081392560327,39.484668249764496,0 2.8610634949202236,39.48453337507246,0 2.861278925906207,39.48436710150051,0 2.861453672799749,39.484174481391996,0 2.86158242618663,39.48396136760407,0 2.8616612743018224,39.48373423564838,0 2.8616878218452992,39.48349998691693,0 2.8616612627065185,39.483265738974495,0 2.861582404394586,39.48303860929065,0 2.861453643439408,39.4828254989834,0 2.8612788925188597,39.482632883144575,0 2.8610634615328765,39.482466614116326,0 2.8608138962429295,39.48233174369397,0 2.8605377793823776,39.48223236965442,0 2.8602435002808724,39.482171511270565,0 2.85994,39.48215101759112,0 2.8596364997191275,39.482171511270565,0 2.859342220617622,39.48223236965442,0 2.8590661037570704,39.48233174369397,0 2.8588165384671234,39.482466614116326,0 2.85860110748114,39.482632883144575,0 2.858426356560592,39.4828254989834,0 2.8582975956054137,39.48303860929065,0 2.8582187372934813,39.483265738974495,0 2.8581921781547006,39.48349998691693,0 2.8582187256981775,39.48373423564838,0 2.85829757381337,39.48396136760407,0 2.858426327200251,39.484174481391996,0 2.858601074093793,39.48436710150051,0 2.8588165050797762,39.48453337507246,0 2.85906607439673,39.484668249764496,0 2.859342198825579,39.484767627284725,0 2.859636488123823,39.484828487940426,0 2.85994,39.48484898240888,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#pink</styleUrl>
+      <name />
+      <description>
+    &lt;![CDATA[
+    &lt;h2&gt;🔥 Incendio activo&lt;/h2&gt;
+
+    &lt;table border="0" cellpadding="4"&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Focos agrupados&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;FRP máximo&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2.5 MW&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Confianza&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Baja&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Fecha&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2026-11-14&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Hora&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;1238 UTC&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Satélite&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;N21&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Instrumento&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;VIIRS&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Población más cercana&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;Llucmajor&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Distancia&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2.8 km&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Latitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;39.483500&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&lt;b&gt;Longitud&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;2.859940&lt;/td&gt;
+        &lt;/tr&gt;
+
+    &lt;/table&gt;
+
+    ]]&gt;
+    </description>
+      <Point>
+        <coordinates>2.85994,39.4835,0</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
